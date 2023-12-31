@@ -1,7 +1,19 @@
+/**
+ * @file AntiDelay.h
+ * @author Martin Vichnál
+ * @page https://github.com/martinvichnal/AntiDelay
+ * @brief AntiDelay is a library that aims to provide non-blocking delay functionality.
+ * @version v1.1.0
+ * @date 2023-12-31
+ *
+ * @copyright Copyright (c) 2024
+ */
+
+
 #ifndef AntiDelay_h
 #define AntiDelay_h
 
-#include "Arduino.h"
+#include <Arduino.h>
 
 class AntiDelay
 {
