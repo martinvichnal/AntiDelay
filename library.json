@@ -1,6 +1,6 @@
 {
     "name": "AntiDelay",
-    "version": "1.1.0",
+    "version": "1.1.2",
     "description": "AntiDelay is a library that aims to provide non-blocking delay functionality.",
     "dependencies": {}
 }
